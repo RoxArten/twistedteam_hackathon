@@ -1,2 +1,3 @@
 # twistedteam_hackathon
-Hackathons for 1mwtt projects.
+I'll paste the boggle stuff here when it gets posted!
+For now I'm logging off because I'm on "Vacation". Or something.
