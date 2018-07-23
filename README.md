@@ -1,4 +1,4 @@
-# twistedteam_hackathon
+# Week 2 twistedteam_hackathon
 Week 2 Hackathon challenge
 
 Boggle is a 4x4 word game with 16 dice.
